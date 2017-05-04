@@ -4,5 +4,5 @@ A Hailstone sequence calculator implemented in Java
 
 ### Run:
 - download/clone repository
-- open terminal at download location
+- open terminal at ../bin/
   - java Hailstone
